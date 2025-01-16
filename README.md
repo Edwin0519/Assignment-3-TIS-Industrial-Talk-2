@@ -1,6 +1,6 @@
 # Assignment-3-TIS-Industrial-Talk-2
 
-We visit to UTM Digital for assignment 2
+We have develop an academic writing for this talk
 
 Technology and Information Systems-Assignment 3 (Industrial Talk 2) Group 6
 
